@@ -1,0 +1,6 @@
+services:
+  universityserv:
+    image: ${DOCKER_REGISTRY-}universityserv
+    build:
+      context: .
+      dockerfile: UniversityServ/Dockerfile

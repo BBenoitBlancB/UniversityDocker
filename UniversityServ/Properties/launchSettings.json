@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UniversityServ": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
